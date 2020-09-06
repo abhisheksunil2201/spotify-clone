@@ -1,3 +1,5 @@
+Link to app: https://spotify-clone-3459a.web.app/
+
 ![Screenshot (246)](https://user-images.githubusercontent.com/52904509/92327725-68e88780-f079-11ea-842f-2b74cfa09ae1.png)
 ![Screenshot (247)](https://user-images.githubusercontent.com/52904509/92327726-6ab24b00-f079-11ea-8aae-58435c819fa2.png)
 
